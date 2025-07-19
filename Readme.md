@@ -1,77 +1,83 @@
-# Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+# Abhay Gupta — Personal Portfolio
 
-:star: Star me on GitHub — it helps!
-
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://abhaygupta12.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhay--gupta-blue?logo=linkedin)](https://www.linkedin.com/in/abhay-gupta-278529197/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-### Website Preview
-#### Home Page
-<img src="website_images/HomePage.gif" width="900">
+## 🌟 About This Portfolio
 
+Welcome to my personal portfolio website!  
+This site showcases my professional journey, skills, certifications, and projects in software development, cloud infrastructure, and more.
 
-#### About Page
-<img src="website_images/AboutPage.png" width="900">
+**Live Site:** [abhaygupta12.github.io](https://abhaygupta12.github.io/)
 
+---
 
-#### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
-  
+## 🚀 Features
 
+- Fully responsive design
+- Clean HTML5 & CSS3
+- Typing animation with Typed.js
+- Project and certification showcase
+- Easy to customize
 
-:star: Star me on GitHub — it helps!
+---
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+## 🛠️ Sections
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> 
-- Add or remove images from `assets/img/` directory as per your requirement.
-- Update the info of `projects` folder according to your need
-- Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
+- **About**
+- **Interests**
+- **Education**
+- **Online Certifications**
+- **Experience**
+- **Projects**
+- **Skills**
+- **Resume & Links**
+- **Contact**
 
-## Sections 📚
-✔️ About\
-✔️ Interests\
-✔️ Education\
-✔️ Online Certification\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Resume\
-✔️ Contact Info
+---
 
+## 📦 Installation & Deployment
 
+1. **Clone this repository:**
+   ```sh
+   git clone https://github.com/abhaygupta12/abhaygupta.github.io.git
+   ```
+2. **Customize Content:**
+   - Edit `index.html` to update your info, projects, and images.
+   - Add/remove images in `assets/img/` as needed.
+   - Update project details in the `projects` folder if you use project subpages.
 
-## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+3. **Deploy:**
+   - Push your changes to the `main` or `master` branch of your `<your-github-username>.github.io` repository.
+   - Your site will be live at `https://<your-github-username>.github.io/`.
 
-## Contributing 💡
-#### Step 1
+---
 
-- **Option 1**
-    - 🍴 Fork this repo!
+## 🧰 Tools Used
 
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
+- **GitHub Pages** — for hosting
+- **HTML, CSS, JS** — for structure and interactivity
+- **Bootstrap** — for responsive layout
+- **Typed.js** — for typing animation
 
+---
 
-#### Step 2
+## 🤝 Contributing
 
-- **Build your code** 🔨🔨🔨
+Pull requests are welcome!  
+If you want to suggest improvements or fixes:
 
-#### Step 3
+1. Fork this repo
+2. Make your changes
+3. Submit a pull request
 
-- 🔃 Create a new pull request.
+---
 
-## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+## 📄 License
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+[MIT License](http://opensource.org/licenses/mit-license.php)
+
+---
+
+**Connect
