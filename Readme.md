@@ -9,7 +9,7 @@
 Welcome to my personal portfolio website!  
 This site showcases my professional journey, skills, certifications, and projects in software development, cloud infrastructure, and more.
 
-**Live Site:** [abhaygupta12.github.io](https://abhaygupta12.github.io/)
+**Live Site:** [abhaygupta12.github.io](https://abhaygupta12.github.io/portfolio-site_abhay.co.in/)
 
 ---
 
@@ -17,7 +17,6 @@ This site showcases my professional journey, skills, certifications, and project
 
 - Fully responsive design
 - Clean HTML5 & CSS3
-- Typing animation with Typed.js
 - Project and certification showcase
 - Easy to customize
 
@@ -32,7 +31,6 @@ This site showcases my professional journey, skills, certifications, and project
 - **Experience**
 - **Projects**
 - **Skills**
-- **Resume & Links**
 - **Contact**
 
 ---
@@ -59,7 +57,6 @@ This site showcases my professional journey, skills, certifications, and project
 - **GitHub Pages** — for hosting
 - **HTML, CSS, JS** — for structure and interactivity
 - **Bootstrap** — for responsive layout
-- **Typed.js** — for typing animation
 
 ---
 
